@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\InvertirCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\InvertirCadena.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\InvertirCadena.AssemblyInfo.cs
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\InvertirCadena.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\InvertirCadena\bin\Debug\net8.0\InvertirCadena.exe
+C:\Users\franc\source\repos\InvertirCadena\bin\Debug\net8.0\InvertirCadena.deps.json
+C:\Users\franc\source\repos\InvertirCadena\bin\Debug\net8.0\InvertirCadena.runtimeconfig.json
+C:\Users\franc\source\repos\InvertirCadena\bin\Debug\net8.0\InvertirCadena.dll
+C:\Users\franc\source\repos\InvertirCadena\bin\Debug\net8.0\InvertirCadena.pdb
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\InvertirCadena.dll
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\refint\InvertirCadena.dll
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\InvertirCadena.pdb
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\InvertirCadena.genruntimeconfig.cache
+C:\Users\franc\source\repos\InvertirCadena\obj\Debug\net8.0\ref\InvertirCadena.dll
